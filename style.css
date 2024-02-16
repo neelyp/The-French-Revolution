@@ -11,6 +11,17 @@ p {
   font-size: 20px;
   font-family: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua',
     Georgia, serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+select {
+  text-align: center;
+  width: 50%;
+  height: 5%;
+  background-color: #a9b4c7;
+  appearance: none;
 }
 
 .wrapper {
@@ -22,7 +33,7 @@ p {
 }
 
 .wrapper:hover {
-  box-shadow: 10px 10px 15px #314047;
+  box-shadow: 10px 10px 15px #475d69;
 }
 
 .inner {
