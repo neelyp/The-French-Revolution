@@ -2,3 +2,38 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  background-color: #193847;
+}
+
+p {
+  font-size: 20px;
+  font-family: Palatino, 'Palatino LT STD', 'Palatino Linotype', 'Book Antiqua',
+    Georgia, serif;
+}
+
+.wrapper {
+  text-align: center;
+  height: 75%;
+  width: 60%;
+  background-color: #a9bdc7;
+  border-radius: 4%;
+}
+
+.wrapper:hover {
+  box-shadow: 10px 10px 15px #314047;
+}
+
+.inner {
+  padding: 30px;
+  height: 90%;
+  width: 75%;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

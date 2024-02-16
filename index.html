@@ -8,20 +8,29 @@
   </head>
 
   <body>
-    <h1>Select a topic from the dropdown box to view the paragraphs</h1>
-    <select name="paragraphs" id="paragraph">
-      <option>Select an Option</option>
-      <option value="Louis">Louis XVI</option>
-      <option value="Marie">Marie Antoinette</option>
-      <option value="Robespierre">Robespierre</option>
-      <option value="ROT">Reign of Terror</option>
-      <option value="Guillotine">Guillotine</option>
-      <option value="Storming">Storming of the Bastille</option>
-      <option value="Meeting">Estates-General Meeting</option>
-      <option value="Oath">Tennis Court Oath</option>
-    </select>
+    <div class="wrapper center">
+      <div class="inner center">
+        <h1>Select a topic from the dropdown box</h1>
 
-    <div id="text"></div>
+        <!-- Dropdown -->
+        <select name="paragraphs" id="paragraph">
+          <option selected disabled hidden>Select an Option</option>
+          <option value="Louis">Louis XVI</option>
+          <option value="Marie">Marie Antoinette</option>
+          <option value="Robespierre">Robespierre</option>
+          <option value="ROT">Reign of Terror</option>
+          <option value="Guillotine">Guillotine</option>
+          <option value="Storming">Storming of the Bastille</option>
+          <option value="Meeting">Estates-General Meeting</option>
+          <option value="Oath">Tennis Court Oath</option>
+        </select>
+
+        <!-- displays paragraph -->
+        <br />
+        <p style="text-align: left" id="text"></p>
+      </div>
+    </div>
+
     <script type="module" src="./script.js"></script>
   </body>
 </html>
