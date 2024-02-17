@@ -1,10 +1,34 @@
 {
-  "Louis": "Placeholder",
-  "Marie": "Placeholder",
-  "Robespierre": "Robespierre was part of the Jacobins, then he transitioned to be part of the committee of public safety. During his time in power he was seen as a dictator, this is due to the amount of people who died during his time. The time he was in power is referred to as the reign of terror. He was responsible for over 30,000 deaths. He acted as a judge for the people who were accused of being against the republic. During his time he was an advocate for King Louie’s killing.  ",
-  "ROT": "The reign of terror was a time in France when Robespierre was in control. During this time 30,000 - 50,000 were executed due to being accused of terrorist accusations. For example, popular accusations include wearing the wrong color and having extra food. Furthermore, this time was seen as life in fear. People were commonly underfed and that",
-  "Guillotine": "The guillotine was the main mode of execution during the French Revolution. It was first heavily utilized by Robespierre after the execution of Louis XVI. With the marking of the Reign of Terror, the guillotine was used an extreme amount of times. The guillotine is made with two pieces of wood with a hole down the center of the top and an opening in the middle of the side. The hole in the side is used to hold someone’s head down, and the hole in the middle is used to let the blade fall through the wood to decapitate the victim. During the reign of terror, the guillotine was used so many times that the blade would dull, and it would take multiple falls of the blade to fully decapitate the victim.",
-  "Storming": "The Storming of the Bastille was a very famous event in the French Revolution. After the Estates-General meeting, the National Assembly returned home and got word of the Monarchy sending some royal troops to their location. The third estate thought that the royal troops were going to attack them, so they stormed the Bastille, which was a prison, to get weapons and troops to protect themselves from them. The Storming of the Bastille would be very important in the French Revolution as it marked the first physical rebellion of the French.",
-  "Meeting": "Placeholder",
-  "Oath": "Placeholder"
+  "Louis": {
+    "Paragraph": "Placeholder",
+    "img": "./imgs/louis.jpg"
+  },
+  "Marie": {
+    "Paragraph": "Placeholder",
+    "img": "./imgs/marie.jpg"
+  },
+  "Robespierre":{
+   "Paragraph": "Robespierre was part of the Jacobins, then he transitioned to be part of the committee of public safety. During his time in power he was seen as a dictator, this is due to the amount of people who died during his time. The time he was in power is referred to as the reign of terror. He was responsible for over 30,000 deaths. He acted as a judge for the people who were accused of being against the republic. During his time he was an advocate for King Louie’s killing.",
+    "img": "./imgs/Robespierre.jpg"
+  },
+  "ROT": {
+    "Paragraph": "The reign of terror was a time in France when Robespierre was in control. During this time 30,000 - 50,000 were executed due to being accused of terrorist accusations. For example, popular accusations include wearing the wrong color and having extra food. Furthermore, this time was seen as life in fear. People were commonly underfed and that",
+    "img": "./imgs/rot.jpg"
+  },
+  "Guillotine": {
+   "Paragraph": "The guillotine was the main mode of execution during the French Revolution. It was first heavily utilized by Robespierre after the execution of Louis XVI. With the marking of the Reign of Terror, the guillotine was used an extreme amount of times. The guillotine is made with two pieces of wood with a hole down the center of the top and an opening in the middle of the side. The hole in the side is used to hold someone’s head down, and the hole in the middle is used to let the blade fall through the wood to decapitate the victim. During the reign of terror, the guillotine was used so many times that the blade would dull, and it would take multiple falls of the blade to fully decapitate the victim.",
+    "img": "./imgs/guillotine.jpg"
+  },
+  "Storming": {
+    "Paragraph": "The Storming of the Bastille was a very famous event in the French Revolution. After the Estates-General meeting, the National Assembly returned home and got word of the Monarchy sending some royal troops to their location. The third estate thought that the royal troops were going to attack them, so they stormed the Bastille, which was a prison, to get weapons and troops to protect themselves from them. The Storming of the Bastille would be very important in the French Revolution as it marked the first physical rebellion of the French.",
+    "img": "./imgs/storming.jpg"
+  },
+  "Meeting": {
+    "Paragraph": "Placeholder",
+    "img": "./imgs/meeting.jpg"
+  },
+  "Oath": {
+    "Paragraph": "Placeholder",
+    "img": "./imgs/tennis.jpg"
+  }
 }
