@@ -1,8 +1,8 @@
 import data from './paragraphs.json' assert { type: 'json' };
 
-const select = document.getElementById('paragraph');
-const p = document.getElementById('text');
-const img = document.getElementById('img-wrapper');
+const select = document.querySelector('#paragraph');
+const p = document.querySelector('#text');
+const img = document.querySelector('#img-wrapper');
 const title = document.querySelector('#title');
 
 select.onchange = () => {
