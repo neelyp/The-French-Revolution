@@ -31,6 +31,8 @@ select {
   width: 60%;
   background-color: #a9bdc7;
   border-radius: 4%;
+  box-shadow: 0;
+  transition: box-shadow 2s ease;
 }
 
 .wrapper:hover {
@@ -40,7 +42,7 @@ select {
 .inner {
   padding: 30px;
   height: 90%;
-  width: 75%;
+  width: 90%;
 }
 
 .center {
