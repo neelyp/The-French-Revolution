@@ -1,6 +1,6 @@
 {
   "Louis": {
-    "Paragraph": "Placeholder",
+    "Paragraph": " King Louis XVI was heavily underprepared in his role as king. Although he tried his best to keep well-minded intentions for the people of France, he fell short and lacked the knowledge necessary to perform sufficiently as ruler. As a result, France plummeted into debt leaving members of the the third estate angry at the king. Eventually, the National Assembly transferred Louis XVI to the Tuileries Palace where he attempted to flee, but failed. Shortly after, he was accused of planning an invasion of France by other European countries, like Austria and Prussia. King Louis XVI was put to death for treason because of this and died by guillotine on January 21, 1793.",
     "img": "./imgs/louis.jpg"
   },
   "Marie": {
@@ -12,7 +12,7 @@
     "img": "./imgs/Robespierre.jpg"
   },
   "ROT": {
-    "Paragraph": "The reign of terror was a time in France when Robespierre was in control. During this time 30,000 - 50,000 were executed due to being accused of terrorist accusations. For example, popular accusations include wearing the wrong color and having extra food. Furthermore, this time was seen as life in fear. People were commonly underfed and that",
+    "Paragraph": "The reign of terror was a time in France when Robespierre was in control. During this time 30,000 - 50,000 were executed due to being accused of terrorist accusations. For example, popular accusations include wearing the wrong color and having extra food. Furthermore, this time was seen as life in fear. People were commonly feared that they would be killed by one of three methods, guillotine, being shot, and drowned. This fear only lasted one year when Robespierre was killed.",
     "img": "./imgs/rot.jpg"
   },
   "Guillotine": {
@@ -24,11 +24,11 @@
     "img": "./imgs/storming.jpg"
   },
   "Meeting": {
-    "Paragraph": "Placeholder",
+    "Paragraph": "King Louis XVI recognized the issues happening in the third estate and held a meeting with representatives from all of the estates. 300 for the first two and 600 for the third estate. The issue was, he had trouble figuring out a good way to hold a voting system, individually, or by estate. The obvious answer was individually to accommodate for the third estate who had the majority of the issues, because of this, they declared themselves the national assembly. This angered the king, and he locked them out of the meeting where they would go on to make the Tennis Court Oath.",
     "img": "./imgs/meeting.jpg"
   },
   "Oath": {
-    "Paragraph": "Placeholder",
+    "Paragraph": "After being locked out of the Estates-General Meeting by King Louis XVI, the Third Estate, now known as the national assembly, did not know what they could do. They stayed in an empty tennis court and they made an oath to not stop fighting until they had equal rights in the French Society. The Tennis Court oath was very important to the French Revolution as it was the true beginning of the revolution. This oath is basically the third estate breaking off from France. This oath would lead to many important events like the Storming of the Bastille. It was extremely important.",
     "img": "./imgs/tennis.jpg"
   }
 }
